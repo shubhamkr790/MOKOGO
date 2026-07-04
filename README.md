@@ -1,13 +1,13 @@
 # MOKOGO – Listings Screen
 
 <p align="center">
-  <img src="./images/screenshot_1.jpg" width="180" />
+  <img src="./images/screenshot_5.jpg" width="180" />
   <img src="./images/screenshot_2.jpg" width="180" />
   <img src="./images/screenshot_3.jpg" width="180" />
 </p>
 <p align="center">
   <img src="./images/screenshot_4.jpg" width="180" />
-  <img src="./images/screenshot_5.jpg" width="180" />
+  <img src="./images/screenshot_1.jpg" width="180" />
 </p>
 
 A beautifully designed, single-screen React Native application built with Expo to display flatmate room listings. This project was developed as a screening task for MOKOGO, demonstrating a clean architecture, robust state management, and a highly polished user interface.
